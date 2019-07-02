@@ -38,7 +38,7 @@ app {
 dependencies {
     compile "com.enonic.xp:core-api:${xpVersion}"
     compile "com.enonic.xp:portal-api:${xpVersion}"
-    include "com.cronutils:cron-utils:5.0.4"
+    include "com.cronutils:cron-utils:9.0.0"
     testCompile 'junit:junit:4.10'
     testCompile "com.enonic.xp:testing:${xpVersion}"
 }
